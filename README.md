@@ -1,1 +1,1 @@
-# -Stationary-Solar-Charger-
+# Stationary-Solar-Charger
