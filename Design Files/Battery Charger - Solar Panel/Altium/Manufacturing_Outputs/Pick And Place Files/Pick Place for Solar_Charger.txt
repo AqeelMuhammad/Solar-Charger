@@ -1,0 +1,41 @@
+Altium Designer Pick and Place Locations
+C:\Users\Charith Janaka\Desktop\Sem_05_Exams\EDR\Project\Altium\Solar_Charger\Project Outputs for Solar_Charger\Pick Place for Solar_Charger.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       04/03/22
+Time:       00:33
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment             Layer       Footprint                 Center-X(mil) Center-Y(mil) Rotation Description                                                                                  
+C3         T495D106K035AHE125  TopLayer    CAPC730430X031N_(2917)    535.000       623.149       90       "10 µF Molded Tantalum Capacitors 35 V"                                                      
+U4         SI7540ADP-T1-GE3    TopLayer    SON127P620X112-8N         1595.000      795.000       0        "Mosfet Array N and P-Channel 20V 12A, 9A 3.5W"                                              
+U3         LTC4006EGN-6#PBF    TopLayer    SOP064P600X175-16N        1075.000      945.000       0        "IC BATT CHG LI-ION 2CELL"                                                                   
+U2         DMP3085LSS-13       TopLayer    SOIC127P600X175-8N        573.701       954.055       180      "MOSFET P-CH 30V 3.8A"                                                                       
+U1         AS78L05RTR-G1       BottomLayer SOT150P288X160-3N_(SOT89) 190.000       475.000       90       "Linear Voltage Regulator IC Positive Fixed 1 Output 100mA"                                  
+R9         RK73H2ATTD3093F     BottomLayer RESC200125X065N_A_(0805)  900.000       736.071       90       "309 kOhms ±1% 0.25W, 1/4W Chip Resistor"                                                    
+R8         RK73H2ATTD9532F     BottomLayer RESC200125X065N_A_(0805)  770.000       990.000       90       "95.3 kOhms ±1% 0.25W, 1/4W Chip Resistor"                                                   
+R7         RK73H2ATTD6041F     BottomLayer RESC200125X065N_A_(0805)  985.000       736.071       270      "6.04 kOhms ±1% 0.25W, 1/4W Chip Resistor"                                                   
+R6         UR73VD2ATTD33L0F    TopLayer    RESC200125X070N_(0805)    940.000       585.000       180      "33 mOhms ±1% 0.5W, 1/2W Chip Resistor"                                                      
+R5         RK73H2ATTD2402F     BottomLayer RESC200125X065N_A_(0805)  600.000       990.000       270      "24 kOhms ±1% 0.25W, 1/4W Chip Resistor"                                                     
+R4         UR73VD2ATTD33L0F    TopLayer    RESC200125X070N_(0805)    1336.715      935.000       90       "33 mOhms ±1% 0.5W, 1/2W Chip Resistor"                                                      
+R3         ERJ-6GEYJ514V       BottomLayer RESC200125X070N_(0805)    730.000       735.000       270      "510 kOhms ±5% 0.125W, 1/8W Chip Resistor"                                                   
+R2         RT0603BRE075KL      TopLayer    RESC160075X055N_(0603)    1210.000      795.000       0        "5 kOhms ±0.1% 0.1W, 1/10W Chip Resistor"                                                    
+R1         RK73B2ATTD331J      BottomLayer RESC200125X060N_(0805)    815.000       733.032       270      "330 Ohms ±5% 0.25W, 1/4W Chip Resistor"                                                     
+L1         ASPI-1306T-220M-T   TopLayer    INDC185152X711N           1310.000      330.000       180      "22 µH Unshielded Wirewound Inductor 3.5 A 47mOhm Max Nonstandard"                           
+J5         282834-2            TopLayer    282834-2                  630.000       205.000       90       "2 Position Wire to Board Terminal Block Horizontal with Board 0.100" (2.54mm) Through Hole" 
+J4         B2B-XH-A(LF)(SN)    TopLayer    B2B-XH-A(LF)(SN)          2085.000      195.000       180      "Connector Header Through Hole 2 position 0.098" (2.50mm)"                                   
+J3         B2B-XH-A(LF)(SN)    TopLayer    B2B-XH-A(LF)(SN)          2085.000      655.000       180      "Connector Header Through Hole 2 position 0.098" (2.50mm)"                                   
+J2         B2B-XH-A(LF)(SN)    TopLayer    B2B-XH-A(LF)(SN)          2085.000      1095.000      180      "Connector Header Through Hole 2 position 0.098" (2.50mm)"                                   
+J1         282834-2            TopLayer    282834-2                  200.000       855.000       0        "2 Position Wire to Board Terminal Block Horizontal with Board 0.100" (2.54mm) Through Hole" 
+D1         MBR130T1G           TopLayer    DIOC269160X135N_(SOD_123) 1805.000      780.000       90       "Diode Schottky 30 V 1A Surface Mount"                                                       
+C8         C3216X5R1V226M160AC TopLayer    CAPC320160X180N_A_(1206)  1345.000      740.000       90       "22 µF ±20% 35V Ceramic Capacitor X5R"                                                       
+C7         GRM219R71C564KA01D  BottomLayer CAPC200125X095N_(0805)    1070.000      735.000       270      "0.56 µF ±10% 16V Ceramic Capacitor X7R"                                                     
+C6         GRM219R71C564KA01D  BottomLayer CAPC200125X095N_(0805)    685.000       988.929       270      "0.56 µF ±10% 16V Ceramic Capacitor X7R"                                                     
+C5         T495C336K016ATE200  TopLayer    CAPC730430X060N_(2312)    740.000       647.756       270      "33 µF Molded Tantalum Capacitors 16 V 2312 (6032 Metric) 200mOhm @ 100kHz"                  
+C4         C0805C153F4JAC7800  TopLayer    CAPC200125X088N_(0805)    1225.000      710.000       180      "0.015 µF ±1% 16V Ceramic Capacitor U2J"                                                     
+C2         CL21B104KBCNNNC     BottomLayer CAPC200125X094N_(0805)    253.976       345.000       90       "0.1 µF ±10% 50V Ceramic Capacitor X7R"                                                      
+C1         CL21B334KBFNNNE     BottomLayer CAPC200125X135N_(0805)    130.000       345.000       90       "CAP CER 0.33UF 50V X7R 0805"                                                                

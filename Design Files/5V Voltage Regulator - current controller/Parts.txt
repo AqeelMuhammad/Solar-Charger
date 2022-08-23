@@ -1,0 +1,9 @@
+C1,C2,C3,C4		Yageo					CC0805KRX7R9BB104
+C5,C6			ROQANG					RVT1C220M0405
+J2			Jing Extension of the Electronic Co. 	907-111A1012D10200
+R1,R2			Viking Tech				ARG05FTC1003
+U1			Texas Instruments			TPS2066DR
+U2			Texas Instruments			TPS2513DBVRs
+U3			Texas Instruments 			TPD4E1U06DCKR
+
+
