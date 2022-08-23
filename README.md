@@ -1,3 +1,3 @@
 # Stationary-Solar-Charger
 
- ![](Images/Logo.jpg)
+ ![](Images/PrintedEnclosureFront.jpeg)
