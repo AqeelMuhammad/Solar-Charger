@@ -1,4 +1,4 @@
-# SOLAR BANK - Stationary Solar Charger
+# SOLAR BANK - Portable Solar Charger
 
 <!-- PROJECT LOGO -->
 <br />
@@ -9,3 +9,9 @@
   <h3 align="center">SOLAR BANK</h3>
 </div>
 
+# About The Project
+
+* This repository includes all the project files related to the development of a portable solar charger; Solar Bank. 
+* The project was done by a team of 10 undergraduates at the Department of Electronic and Telecommunication Engineering, University of Moratuwa, Sri Lanka for UOM's EN3023 - Electronic Design Realization module.
+* We Designed a portable mobile charger capable of powering small electronic devices which can be charged by solar cells or AC power. This device can be carried while hiking, traveling or can be installed in public places even at home.
+* `Altium Designer` and `SolidWorks` were used to design the circuit designs and the enclosure designs.
